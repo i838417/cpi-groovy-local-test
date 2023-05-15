@@ -1,0 +1,69 @@
+{
+  "ctxObjects": [
+    {
+      "ctxId": "da633d40-30e6-478e-bd5c-849ff91ea034",
+      "ProductSerialNumber": {
+        "batchId": "",
+        "productId": "BMWX6",
+        "systemId": "BPNL00000003AYRE-SYS",
+        "quantities": [
+          {
+            "qualifier": "DISCRETE",
+            "value": "1",
+            "unit": "PC"
+          }
+        ],
+        "properties": [
+          {
+            "name": "CATENAX_UID",
+            "value": "da633d40-30e6-478e-bd5c-849ff91ea034"
+          }
+        ],
+        "creationDate": "20230511",
+        "productName": "BMW X6",
+        "location": "DEU",
+        "plant": null,
+        "status": "RELEASED",
+        "statusComment": null,
+        "serialId": "SN-BMWX6-1683899379399"
+      }
+    },
+    {
+      "ctxId": "119726bd-0e51-42b1-8fc0-09bfa070d7b8",
+      "ProductSerialNumber": {
+        "batchId": "",
+        "productId": "GEARBOX",
+        "systemId": "BPNL00000003AYRE-SYS",
+        "quantities": [
+          {
+            "qualifier": "DISCRETE",
+            "value": "1",
+            "unit": "PC"
+          }
+        ],
+        "properties": [
+          {
+            "name": "CATENAX_UID",
+            "value": "119726bd-0e51-42b1-8fc0-09bfa070d7b8"
+          }
+        ],
+        "creationDate": "20230503",
+        "productName": "Gear Box",
+        "location": null,
+        "plant": null,
+        "status": "RELEASED",
+        "statusComment": null,
+        "serialId": "SN-GEARBOX-1683899383683"
+      },
+      "ReceivedSerializedProduct": {
+        "ctxBPId": "BPNL0000000000ZF"
+      }
+    }
+  ],
+  "ctxProductEdges": [
+    {
+      "fromCtxId": "119726bd-0e51-42b1-8fc0-09bfa070d7b8",
+      "toCtxId": "da633d40-30e6-478e-bd5c-849ff91ea034"
+    }
+  ]
+}

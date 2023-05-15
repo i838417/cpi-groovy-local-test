@@ -1,0 +1,3355 @@
+{
+  "level": "0",
+  "manufacturer": "BPNL00000003AZQP",
+  "batchManaged": "N",
+  "productName": "Vehicle Fully Electric",
+  "productid": "XT-47",
+  "sapApp": "Y",
+  "bpId": "BPNL00000003AZQP",
+  "serialId": "OMCWIBYOPIBNDIGSE",
+  "batchId": "",
+  "quantity": "1",
+  "uuids": [
+
+  ],
+  "aas": "Y",
+  "aasUUIDs": "d939b89c-3f54-4b92-a4ce-f4de21b617c6",
+  "mqtt": "N",
+  "countryCode": "DEU",
+  "qualifier": "",
+  "unitOfMeasure": "",
+  "batchQuantity": "",
+  "properties": [
+    {
+      "name": "CATENAX_UID",
+      "value": "54f35816-c1ce-44b7-b6ee-aa3235b96250"
+    }
+  ],
+  "status": "RELEASED",
+  "systemId": "",
+  "creationDate": "",
+  "expirationDate": "",
+  "SUBCOMPT1": [
+    {
+      "level": "1",
+      "manufacturer": "BPNL00000003AZQP",
+      "batchManaged": "N",
+      "productName": "Catalysator",
+      "productid": "73849201-61",
+      "sapApp": "Y",
+      "bpId": "SAPTIER1",
+      "serialId": "NO-272726271192242076573264",
+      "batchId": "",
+      "quantity": "1",
+      "ratio": "1",
+      "aas": "Y",
+      "mqtt": "N",
+      "countryCode": "DEU",
+      "qualifier": "",
+      "unitOfMeasure": "",
+      "batchQuantity": "",
+      "properties": [
+        {
+          "name": "CATENAX_UID",
+          "value": "e2a91f5b-2fe4-40e0-87e0-4fbdd2e8e4fc"
+        }
+      ],
+      "status": "RELEASED",
+      "systemId": "",
+      "creationDate": "",
+      "expirationDate": "",
+      "SUBCOMPT2": [
+
+      ]
+    },
+    {
+      "level": "1",
+      "manufacturer": "BPNL00000003CSGV",
+      "batchManaged": "N",
+      "productName": "Door f-l",
+      "productid": "22782277-50",
+      "sapApp": "Y",
+      "bpId": "SAPTIER1",
+      "serialId": "NO-855393207569301742880846",
+      "batchId": "",
+      "quantity": "1",
+      "ratio": "1",
+      "aas": "N",
+      "mqtt": "N",
+      "countryCode": "DEU",
+      "qualifier": "",
+      "unitOfMeasure": "",
+      "batchQuantity": "",
+      "properties": [
+        {
+          "name": "CATENAX_UID",
+          "value": "4b462fb9-6834-4741-9e02-5915f20edbd8"
+        }
+      ],
+      "status": "RELEASED",
+      "systemId": "",
+      "creationDate": "",
+      "expirationDate": "",
+      "SUBCOMPT2": [
+
+      ]
+    },
+    {
+      "level": "1",
+      "manufacturer": "BPNL00000003CSGV",
+      "batchManaged": "N",
+      "productName": "Door f-r",
+      "productid": "95657362-64",
+      "sapApp": "Y",
+      "bpId": "SAPTIER1",
+      "serialId": "NO-776823863059142725614360",
+      "batchId": "",
+      "quantity": "1",
+      "ratio": "1",
+      "aas": "N",
+      "mqtt": "N",
+      "countryCode": "DEU",
+      "qualifier": "",
+      "unitOfMeasure": "",
+      "batchQuantity": "",
+      "properties": [
+        {
+          "name": "CATENAX_UID",
+          "value": "a6a1ac53-20b9-40bd-9c32-8ca2e62764f6"
+        }
+      ],
+      "status": "RELEASED",
+      "systemId": "",
+      "creationDate": "",
+      "expirationDate": "",
+      "SUBCOMPT2": [
+
+      ]
+    },
+    {
+      "level": "1",
+      "manufacturer": "BPNL00000003AZQP",
+      "batchManaged": "N",
+      "productName": "Door r-l",
+      "productid": "15635759-16",
+      "sapApp": "Y",
+      "bpId": "SAPTIER1",
+      "serialId": "NO-894999273938985944406779",
+      "batchId": "",
+      "quantity": "1",
+      "ratio": "1",
+      "aas": "Y",
+      "mqtt": "N",
+      "countryCode": "DEU",
+      "qualifier": "",
+      "unitOfMeasure": "",
+      "batchQuantity": "",
+      "properties": [
+        {
+          "name": "CATENAX_UID",
+          "value": "c766f845-e3b3-421d-85e2-49c04f1502e1"
+        }
+      ],
+      "status": "RELEASED",
+      "systemId": "",
+      "creationDate": "",
+      "expirationDate": "",
+      "SUBCOMPT2": [
+
+      ]
+    },
+    {
+      "level": "1",
+      "manufacturer": "BPNL00000003AZQP",
+      "batchManaged": "N",
+      "productName": "Door r-r",
+      "productid": "28673126-98",
+      "sapApp": "Y",
+      "bpId": "SAPTIER1",
+      "serialId": "NO-514557837021760138801963",
+      "batchId": "",
+      "quantity": "1",
+      "ratio": "1",
+      "aas": "Y",
+      "mqtt": "N",
+      "countryCode": "DEU",
+      "qualifier": "",
+      "unitOfMeasure": "",
+      "batchQuantity": "",
+      "properties": [
+        {
+          "name": "CATENAX_UID",
+          "value": "e2d9be18-da2d-4f38-91ab-24182216ed4f"
+        }
+      ],
+      "status": "RELEASED",
+      "systemId": "",
+      "creationDate": "",
+      "expirationDate": "",
+      "SUBCOMPT2": [
+
+      ]
+    },
+    {
+      "level": "1",
+      "manufacturer": "BPNL00000003AZQP",
+      "batchManaged": "N",
+      "productName": "Engine hood",
+      "productid": "94421589-82",
+      "sapApp": "Y",
+      "bpId": "SAPTIER1",
+      "serialId": "NO-009415513716393407885554",
+      "batchId": "",
+      "quantity": "1",
+      "ratio": "1",
+      "aas": "Y",
+      "mqtt": "N",
+      "countryCode": "DEU",
+      "qualifier": "",
+      "unitOfMeasure": "",
+      "batchQuantity": "",
+      "properties": [
+        {
+          "name": "CATENAX_UID",
+          "value": "e42bfa06-bdef-4e0c-ab06-e5065f65f07c"
+        }
+      ],
+      "status": "RELEASED",
+      "systemId": "",
+      "creationDate": "",
+      "expirationDate": "",
+      "SUBCOMPT2": [
+
+      ]
+    },
+    {
+      "level": "1",
+      "manufacturer": "BPNL00000003AZQP",
+      "batchManaged": "N",
+      "productName": "Tailgate",
+      "productid": "85023955-75",
+      "sapApp": "Y",
+      "bpId": "SAPTIER1",
+      "serialId": "NO-739062911131620042805963",
+      "batchId": "",
+      "quantity": "1",
+      "ratio": "1",
+      "aas": "Y",
+      "mqtt": "N",
+      "countryCode": "DEU",
+      "qualifier": "",
+      "unitOfMeasure": "",
+      "batchQuantity": "",
+      "properties": [
+        {
+          "name": "CATENAX_UID",
+          "value": "7fc70070-56d8-449c-97ce-9df2a5cd84d9"
+        }
+      ],
+      "status": "RELEASED",
+      "systemId": "",
+      "creationDate": "",
+      "expirationDate": "",
+      "SUBCOMPT2": [
+
+      ]
+    },
+    {
+      "level": "1",
+      "manufacturer": "BPNL00000003AZQP",
+      "batchManaged": "N",
+      "productName": "Fender left",
+      "productid": "13769860-47",
+      "sapApp": "Y",
+      "bpId": "SAPTIER1",
+      "serialId": "NO-167739633738183186629191",
+      "batchId": "",
+      "quantity": "1",
+      "ratio": "1",
+      "aas": "Y",
+      "mqtt": "N",
+      "countryCode": "DEU",
+      "qualifier": "",
+      "unitOfMeasure": "",
+      "batchQuantity": "",
+      "properties": [
+        {
+          "name": "CATENAX_UID",
+          "value": "efa27ea3-1a46-4e3b-9297-324cdafc6ac9"
+        }
+      ],
+      "status": "RELEASED",
+      "systemId": "",
+      "creationDate": "",
+      "expirationDate": "",
+      "SUBCOMPT2": [
+
+      ]
+    },
+    {
+      "level": "1",
+      "manufacturer": "BPNL00000003AZQP",
+      "batchManaged": "N",
+      "productName": "Fender right",
+      "productid": "36643162-35",
+      "sapApp": "Y",
+      "bpId": "SAPTIER1",
+      "serialId": "NO-559346244910944108150703",
+      "batchId": "",
+      "quantity": "1",
+      "ratio": "1",
+      "aas": "Y",
+      "mqtt": "N",
+      "countryCode": "DEU",
+      "qualifier": "",
+      "unitOfMeasure": "",
+      "batchQuantity": "",
+      "properties": [
+        {
+          "name": "CATENAX_UID",
+          "value": "0c6789ff-62cc-4d84-9ac5-93f48958f547"
+        }
+      ],
+      "status": "RELEASED",
+      "systemId": "",
+      "creationDate": "",
+      "expirationDate": "",
+      "SUBCOMPT2": [
+
+      ]
+    },
+    {
+      "level": "1",
+      "manufacturer": "BPNL00000003AZQP",
+      "batchManaged": "N",
+      "productName": "Bumper front",
+      "productid": "54165444-59",
+      "sapApp": "Y",
+      "bpId": "SAPTIER1",
+      "serialId": "NO-417427898625172302376308",
+      "batchId": "",
+      "quantity": "1",
+      "ratio": "1",
+      "aas": "Y",
+      "mqtt": "N",
+      "countryCode": "DEU",
+      "qualifier": "",
+      "unitOfMeasure": "",
+      "batchQuantity": "",
+      "properties": [
+        {
+          "name": "CATENAX_UID",
+          "value": "919e8f10-d5b2-4bd6-bb71-1d5538c0a77f"
+        }
+      ],
+      "status": "RELEASED",
+      "systemId": "",
+      "creationDate": "",
+      "expirationDate": "",
+      "SUBCOMPT2": [
+
+      ]
+    },
+    {
+      "level": "1",
+      "manufacturer": "BPNL00000003AZQP",
+      "batchManaged": "N",
+      "productName": "Bumper rear",
+      "productid": "22768257-25",
+      "sapApp": "Y",
+      "bpId": "SAPTIER1",
+      "serialId": "NO-601746879892567691762182",
+      "batchId": "",
+      "quantity": "1",
+      "ratio": "1",
+      "aas": "Y",
+      "mqtt": "N",
+      "countryCode": "DEU",
+      "qualifier": "",
+      "unitOfMeasure": "",
+      "batchQuantity": "",
+      "properties": [
+        {
+          "name": "CATENAX_UID",
+          "value": "4eaeeade-79e5-4cfd-b5d1-745d07f15686"
+        }
+      ],
+      "status": "RELEASED",
+      "systemId": "",
+      "creationDate": "",
+      "expirationDate": "",
+      "SUBCOMPT2": [
+
+      ]
+    },
+    {
+      "level": "1",
+      "manufacturer": "BPNL00000003AZQP",
+      "batchManaged": "N",
+      "productName": "Exterior mirror left",
+      "productid": "65529521-37",
+      "sapApp": "Y",
+      "bpId": "SAPTIER1",
+      "serialId": "NO-157875171951420154690017",
+      "batchId": "",
+      "quantity": "1",
+      "ratio": "1",
+      "aas": "Y",
+      "mqtt": "N",
+      "countryCode": "DEU",
+      "qualifier": "",
+      "unitOfMeasure": "",
+      "batchQuantity": "",
+      "properties": [
+        {
+          "name": "CATENAX_UID",
+          "value": "b5c5cd0c-2976-4a0c-b495-d2fc8c15b372"
+        }
+      ],
+      "status": "RELEASED",
+      "systemId": "",
+      "creationDate": "",
+      "expirationDate": "",
+      "SUBCOMPT2": [
+
+      ]
+    },
+    {
+      "level": "1",
+      "manufacturer": "BPNL00000003AZQP",
+      "batchManaged": "N",
+      "productName": "Exterior mirror right",
+      "productid": "58471477-24",
+      "sapApp": "Y",
+      "bpId": "SAPTIER1",
+      "serialId": "NO-212204392596459501454852",
+      "batchId": "",
+      "quantity": "1",
+      "ratio": "1",
+      "aas": "Y",
+      "mqtt": "N",
+      "countryCode": "DEU",
+      "qualifier": "",
+      "unitOfMeasure": "",
+      "batchQuantity": "",
+      "properties": [
+        {
+          "name": "CATENAX_UID",
+          "value": "7c9ad345-5fcf-41bb-844e-70e61719b86e"
+        }
+      ],
+      "status": "RELEASED",
+      "systemId": "",
+      "creationDate": "",
+      "expirationDate": "",
+      "SUBCOMPT2": [
+
+      ]
+    },
+    {
+      "level": "1",
+      "manufacturer": "BPNL00000003AZQP",
+      "batchManaged": "N",
+      "productName": "Trailer coupling",
+      "productid": "09002013-68",
+      "sapApp": "Y",
+      "bpId": "SAPTIER1",
+      "serialId": "NO-938731266214517174367758",
+      "batchId": "",
+      "quantity": "1",
+      "ratio": "1",
+      "aas": "Y",
+      "mqtt": "N",
+      "countryCode": "DEU",
+      "qualifier": "",
+      "unitOfMeasure": "",
+      "batchQuantity": "",
+      "properties": [
+        {
+          "name": "CATENAX_UID",
+          "value": "00456019-cb1f-416b-af5d-1dbab5e41b89"
+        }
+      ],
+      "status": "RELEASED",
+      "systemId": "",
+      "creationDate": "",
+      "expirationDate": "",
+      "SUBCOMPT2": [
+
+      ]
+    },
+    {
+      "level": "1",
+      "manufacturer": "BPNL00000003AZQP",
+      "batchManaged": "N",
+      "productName": "Dashboard",
+      "productid": "43501996-98",
+      "sapApp": "Y",
+      "bpId": "SAPTIER1",
+      "serialId": "NO-299144007975592746182956",
+      "batchId": "",
+      "quantity": "1",
+      "ratio": "1",
+      "aas": "Y",
+      "mqtt": "N",
+      "countryCode": "DEU",
+      "qualifier": "",
+      "unitOfMeasure": "",
+      "batchQuantity": "",
+      "properties": [
+        {
+          "name": "CATENAX_UID",
+          "value": "1619027b-01da-4a23-8c8d-2a8b20209c89"
+        }
+      ],
+      "status": "RELEASED",
+      "systemId": "",
+      "creationDate": "",
+      "expirationDate": "",
+      "SUBCOMPT2": [
+
+      ]
+    },
+    {
+      "level": "1",
+      "manufacturer": "BPNL00000003AZQP",
+      "batchManaged": "N",
+      "productName": "Steering wheel",
+      "productid": "77795937-13",
+      "sapApp": "Y",
+      "bpId": "SAPTIER1",
+      "serialId": "NO-281618303826394571709196",
+      "batchId": "",
+      "quantity": "1",
+      "ratio": "1",
+      "aas": "Y",
+      "mqtt": "N",
+      "countryCode": "DEU",
+      "qualifier": "",
+      "unitOfMeasure": "",
+      "batchQuantity": "",
+      "properties": [
+        {
+          "name": "CATENAX_UID",
+          "value": "c6a884ab-7f8f-49f0-b516-0b69ec8999f6"
+        }
+      ],
+      "status": "RELEASED",
+      "systemId": "",
+      "creationDate": "",
+      "expirationDate": "",
+      "SUBCOMPT2": [
+
+      ]
+    },
+    {
+      "level": "1",
+      "manufacturer": "BPNL00000003AZQP",
+      "batchManaged": "N",
+      "productName": "Indicator left",
+      "productid": "20125432-59",
+      "sapApp": "Y",
+      "bpId": "SAPTIER1",
+      "serialId": "NO-037920966474336836326489",
+      "batchId": "",
+      "quantity": "1",
+      "ratio": "1",
+      "aas": "Y",
+      "mqtt": "N",
+      "countryCode": "DEU",
+      "qualifier": "",
+      "unitOfMeasure": "",
+      "batchQuantity": "",
+      "properties": [
+        {
+          "name": "CATENAX_UID",
+          "value": "77e9e911-f4db-48e3-8d9d-7e20022a1524"
+        }
+      ],
+      "status": "RELEASED",
+      "systemId": "",
+      "creationDate": "",
+      "expirationDate": "",
+      "SUBCOMPT2": [
+
+      ]
+    },
+    {
+      "level": "1",
+      "manufacturer": "BPNL00000003AZQP",
+      "batchManaged": "N",
+      "productName": "Indicator right",
+      "productid": "19073706-76",
+      "sapApp": "Y",
+      "bpId": "SAPTIER1",
+      "serialId": "NO-758156799918718909798407",
+      "batchId": "",
+      "quantity": "1",
+      "ratio": "1",
+      "aas": "Y",
+      "mqtt": "N",
+      "countryCode": "DEU",
+      "qualifier": "",
+      "unitOfMeasure": "",
+      "batchQuantity": "",
+      "properties": [
+        {
+          "name": "CATENAX_UID",
+          "value": "5b71ea00-9634-47f4-bb8a-95b726311a58"
+        }
+      ],
+      "status": "RELEASED",
+      "systemId": "",
+      "creationDate": "",
+      "expirationDate": "",
+      "SUBCOMPT2": [
+
+      ]
+    },
+    {
+      "level": "1",
+      "manufacturer": "BPNL00000003AZQP",
+      "batchManaged": "N",
+      "productName": "Led headlight",
+      "productid": "45415162-57",
+      "sapApp": "Y",
+      "bpId": "SAPTIER1",
+      "serialId": "NO-128479761369597354819422",
+      "batchId": "",
+      "quantity": "1",
+      "ratio": "1",
+      "aas": "Y",
+      "mqtt": "N",
+      "countryCode": "DEU",
+      "qualifier": "",
+      "unitOfMeasure": "",
+      "batchQuantity": "",
+      "properties": [
+        {
+          "name": "CATENAX_UID",
+          "value": "7a8b6dcd-9bcb-4418-9199-68a789fbaeec"
+        }
+      ],
+      "status": "RELEASED",
+      "systemId": "",
+      "creationDate": "",
+      "expirationDate": "",
+      "SUBCOMPT2": [
+
+      ]
+    },
+    {
+      "level": "1",
+      "manufacturer": "BPNL00000003AZQP",
+      "batchManaged": "N",
+      "productName": "Starter motor",
+      "productid": "78141846-87",
+      "sapApp": "Y",
+      "bpId": "SAPTIER1",
+      "serialId": "NO-827126217764519790177696",
+      "batchId": "",
+      "quantity": "1",
+      "ratio": "1",
+      "aas": "Y",
+      "mqtt": "N",
+      "countryCode": "DEU",
+      "qualifier": "",
+      "unitOfMeasure": "",
+      "batchQuantity": "",
+      "properties": [
+        {
+          "name": "CATENAX_UID",
+          "value": "3dffb36-77b1-4658-8a3d-2f089f3e4fb4"
+        }
+      ],
+      "status": "RELEASED",
+      "systemId": "",
+      "creationDate": "",
+      "expirationDate": "",
+      "SUBCOMPT2": [
+
+      ]
+    },
+    {
+      "level": "1",
+      "manufacturer": "BPNL00000003AZQP",
+      "batchManaged": "N",
+      "productName": "Alternator",
+      "productid": "81324139-23",
+      "sapApp": "Y",
+      "bpId": "SAPTIER1",
+      "serialId": "NO-467114514911703912989446",
+      "batchId": "",
+      "quantity": "1",
+      "ratio": "1",
+      "aas": "Y",
+      "mqtt": "N",
+      "countryCode": "DEU",
+      "qualifier": "",
+      "unitOfMeasure": "",
+      "batchQuantity": "",
+      "properties": [
+        {
+          "name": "CATENAX_UID",
+          "value": "314eb55-a72b-4453-8b88-9a595cbdd81b"
+        }
+      ],
+      "status": "RELEASED",
+      "systemId": "",
+      "creationDate": "",
+      "expirationDate": "",
+      "SUBCOMPT2": [
+
+      ]
+    },
+    {
+      "level": "1",
+      "manufacturer": "BPNL00000003AZQP",
+      "batchManaged": "N",
+      "productName": "AC compressor",
+      "productid": "57929013-09",
+      "sapApp": "Y",
+      "bpId": "SAPTIER1",
+      "serialId": "NO-303536363824024173106221",
+      "batchId": "",
+      "quantity": "1",
+      "ratio": "1",
+      "aas": "Y",
+      "mqtt": "N",
+      "countryCode": "DEU",
+      "qualifier": "",
+      "unitOfMeasure": "",
+      "batchQuantity": "",
+      "properties": [
+        {
+          "name": "CATENAX_UID",
+          "value": "a98f3d4c-36d7-46b7-ab6c-f9c1cb1a5f9d"
+        }
+      ],
+      "status": "RELEASED",
+      "systemId": "",
+      "creationDate": "",
+      "expirationDate": "",
+      "SUBCOMPT2": [
+
+      ]
+    },
+    {
+      "level": "1",
+      "manufacturer": "BPNL00000003AZQP",
+      "batchManaged": "N",
+      "productName": "Taillight rear",
+      "productid": "61184040-23",
+      "sapApp": "Y",
+      "bpId": "SAPTIER1",
+      "serialId": "NO-616055782778766987208237",
+      "batchId": "",
+      "quantity": "1",
+      "ratio": "1",
+      "aas": "Y",
+      "mqtt": "N",
+      "countryCode": "DEU",
+      "qualifier": "",
+      "unitOfMeasure": "",
+      "batchQuantity": "",
+      "properties": [
+        {
+          "name": "CATENAX_UID",
+          "value": "a0a744f1-4dea-4219-81d4-04d74e80bb66"
+        }
+      ],
+      "status": "RELEASED",
+      "systemId": "",
+      "creationDate": "",
+      "expirationDate": "",
+      "SUBCOMPT2": [
+
+      ]
+    },
+    {
+      "level": "1",
+      "manufacturer": "BPNL00000003AZQP",
+      "batchManaged": "N",
+      "productName": "Taillight front",
+      "productid": "78744126-74",
+      "sapApp": "Y",
+      "bpId": "SAPTIER1",
+      "serialId": "NO-574243661695970059890723",
+      "batchId": "",
+      "quantity": "1",
+      "ratio": "1",
+      "aas": "Y",
+      "mqtt": "N",
+      "countryCode": "DEU",
+      "qualifier": "",
+      "unitOfMeasure": "",
+      "batchQuantity": "",
+      "properties": [
+        {
+          "name": "CATENAX_UID",
+          "value": "59262dc2-bccf-43fd-9baa-bbe243417094"
+        }
+      ],
+      "status": "RELEASED",
+      "systemId": "",
+      "creationDate": "",
+      "expirationDate": "",
+      "SUBCOMPT2": [
+
+      ]
+    },
+    {
+      "level": "1",
+      "manufacturer": "BPNL00000003AZQP",
+      "batchManaged": "N",
+      "productName": "Axle part front",
+      "productid": "12093297-03",
+      "sapApp": "Y",
+      "bpId": "SAPTIER1",
+      "serialId": "NO-227242668342948841718721",
+      "batchId": "",
+      "quantity": "1",
+      "ratio": "1",
+      "aas": "Y",
+      "mqtt": "N",
+      "countryCode": "DEU",
+      "qualifier": "",
+      "unitOfMeasure": "",
+      "batchQuantity": "",
+      "properties": [
+        {
+          "name": "CATENAX_UID",
+          "value": "2556c592-91e5-4938-bb40-951a4c2af4ce"
+        }
+      ],
+      "status": "RELEASED",
+      "systemId": "",
+      "creationDate": "",
+      "expirationDate": "",
+      "SUBCOMPT2": [
+
+      ]
+    },
+    {
+      "level": "1",
+      "manufacturer": "BPNL00000003AZQP",
+      "batchManaged": "N",
+      "productName": "Axle part rear",
+      "productid": "88111709-49",
+      "sapApp": "Y",
+      "bpId": "SAPTIER1",
+      "serialId": "NO-714005411297800797212472",
+      "batchId": "",
+      "quantity": "1",
+      "ratio": "1",
+      "aas": "Y",
+      "mqtt": "N",
+      "countryCode": "DEU",
+      "qualifier": "",
+      "unitOfMeasure": "",
+      "batchQuantity": "",
+      "properties": [
+        {
+          "name": "CATENAX_UID",
+          "value": "bf5ff2b3-804d-4c9e-83bb-df01e6e3bf92"
+        }
+      ],
+      "status": "RELEASED",
+      "systemId": "",
+      "creationDate": "",
+      "expirationDate": "",
+      "SUBCOMPT2": [
+
+      ]
+    },
+    {
+      "level": "1",
+      "manufacturer": "BPNL00000003AZQP",
+      "batchManaged": "N",
+      "productName": "Chassis",
+      "productid": "00871379-44",
+      "sapApp": "Y",
+      "bpId": "SAPTIER1",
+      "serialId": "NO-352712371763868117495826",
+      "batchId": "",
+      "quantity": "1",
+      "ratio": "1",
+      "aas": "Y",
+      "mqtt": "N",
+      "countryCode": "DEU",
+      "qualifier": "",
+      "unitOfMeasure": "",
+      "batchQuantity": "",
+      "properties": [
+        {
+          "name": "CATENAX_UID",
+          "value": "fe9d45db-46c4-4125-8fd1-02008aa4bb40"
+        }
+      ],
+      "status": "RELEASED",
+      "systemId": "",
+      "creationDate": "",
+      "expirationDate": "",
+      "SUBCOMPT2": [
+
+      ]
+    },
+    {
+      "level": "1",
+      "manufacturer": "BPNL00000003AZQP",
+      "batchManaged": "N",
+      "productName": "Rims",
+      "productid": "08901347-87",
+      "sapApp": "Y",
+      "bpId": "SAPTIER1",
+      "serialId": "NO-378409695764400701819295",
+      "batchId": "",
+      "quantity": "1",
+      "ratio": "1",
+      "aas": "Y",
+      "mqtt": "N",
+      "countryCode": "DEU",
+      "qualifier": "",
+      "unitOfMeasure": "",
+      "batchQuantity": "",
+      "properties": [
+        {
+          "name": "CATENAX_UID",
+          "value": "c5761282-d2dc-4cef-84e1-8e192f292901"
+        }
+      ],
+      "status": "RELEASED",
+      "systemId": "",
+      "creationDate": "",
+      "expirationDate": "",
+      "SUBCOMPT2": [
+
+      ]
+    },
+    {
+      "level": "1",
+      "manufacturer": "BPNL00000003AZQP",
+      "batchManaged": "N",
+      "productName": "Tires",
+      "productid": "45863316-60",
+      "sapApp": "Y",
+      "bpId": "SAPTIER1",
+      "serialId": "NO-316646826358930534932297",
+      "batchId": "",
+      "quantity": "1",
+      "ratio": "1",
+      "aas": "Y",
+      "mqtt": "N",
+      "countryCode": "DEU",
+      "qualifier": "",
+      "unitOfMeasure": "",
+      "batchQuantity": "",
+      "properties": [
+        {
+          "name": "CATENAX_UID",
+          "value": "147154b7-9860-4781-b6a0-626e02a054c9"
+        }
+      ],
+      "status": "RELEASED",
+      "systemId": "",
+      "creationDate": "",
+      "expirationDate": "",
+      "SUBCOMPT2": [
+
+      ]
+    },
+    {
+      "level": "1",
+      "manufacturer": "BPNL00000003B2OM",
+      "batchManaged": "N",
+      "productName": "Transmission",
+      "productid": "1O222E8-43",
+      "sapApp": "Y",
+      "bpId": "SAPTIER1",
+      "serialId": "NO-602870314862714122383028",
+      "batchId": "",
+      "quantity": "1",
+      "ratio": "1",
+      "aas": "N",
+      "mqtt": "N",
+      "countryCode": "DEU",
+      "qualifier": "",
+      "unitOfMeasure": "",
+      "batchQuantity": "",
+      "properties": [
+        {
+          "name": "CATENAX_UID",
+          "value": "e6993ccc-7597-4beb-874b-6a4325e0b963"
+        }
+      ],
+      "status": "RELEASED",
+      "systemId": "",
+      "creationDate": "",
+      "expirationDate": "",
+      "SUBCOMPT2": [
+
+      ]
+    },
+    {
+      "level": "1",
+      "manufacturer": "BPNL00000003B5MJ",
+      "batchManaged": "N",
+      "productName": "ECU",
+      "productid": "63729T7-23",
+      "sapApp": "Y",
+      "bpId": "SAPTIER1",
+      "serialId": "NO-975591092408936016100447",
+      "batchId": "",
+      "quantity": "1",
+      "ratio": "1",
+      "aas": "N",
+      "mqtt": "N",
+      "countryCode": "DEU",
+      "qualifier": "",
+      "unitOfMeasure": "",
+      "batchQuantity": "",
+      "properties": [
+        {
+          "name": "CATENAX_UID",
+          "value": "b640261e-abe4-40af-8c85-9627141aacc2"
+        }
+      ],
+      "status": "RELEASED",
+      "systemId": "",
+      "creationDate": "",
+      "expirationDate": "",
+      "SUBCOMPT2": [
+
+      ]
+    },
+    {
+      "level": "1",
+      "manufacturer": "BPNL00000003AZQP",
+      "batchManaged": "N",
+      "productName": "Battery",
+      "productid": "38049661-08",
+      "sapApp": "Y",
+      "bpId": "SAPTIER1",
+      "serialId": "NO-303408190346273066891344",
+      "batchId": "",
+      "quantity": "1",
+      "ratio": "1",
+      "aas": "Y",
+      "mqtt": "N",
+      "countryCode": "DEU",
+      "qualifier": "",
+      "unitOfMeasure": "",
+      "batchQuantity": "",
+      "properties": [
+        {
+          "name": "CATENAX_UID",
+          "value": "31e6e280-56ae-4c8b-8d5f-637613a81a97"
+        }
+      ],
+      "status": "RELEASED",
+      "systemId": "",
+      "creationDate": "",
+      "expirationDate": "",
+      "SUBCOMPT2": [
+        {
+          "level": "2",
+          "manufacturer": "BPNL00000003AZQP",
+          "batchManaged": "N",
+          "productName": "HV MODUL",
+          "productid": "8840837-48",
+          "sapApp": "Y",
+          "bpId": "SAPTIER1",
+          "serialId": "NO-416993383632402451023780",
+          "batchId": "",
+          "quantity": "1",
+          "ratio": "1",
+          "aas": "Y",
+          "mqtt": "N",
+          "countryCode": "DEU",
+          "qualifier": "",
+          "unitOfMeasure": "",
+          "batchQuantity": "",
+          "properties": [
+            {
+              "name": "CATENAX_UID",
+              "value": "cc151212-c73c-4b04-b257-c13ee9bc03ea"
+            }
+          ],
+          "status": "RELEASED",
+          "systemId": "",
+          "creationDate": "",
+          "expirationDate": "",
+          "SUBCOMPT3": [
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AXS3",
+              "batchManaged": "Y",
+              "productName": "Sealant",
+              "productid": "9A047C7-01",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "",
+              "batchId": "NO-718825574210340702430961",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "KGM",
+              "batchQuantity": "0.11",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "f5321882-b369-4007-9c4b-5f8599824c5b"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-017300865895889149432263",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "f267afa5-afbf-4de3-b610-a37a031f8683"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-483180827965012994430648",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "7e93cd87-9219-4ea2-92bd-5f6db393ff94"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-331013302236381200927322",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "f0e36333-8796-43ab-8e76-ed236d18e99f"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-057914095883445915264823",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "5610a20c-6307-4098-8771-7a56d55da234"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-324618818999846543306121",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "a59aa50a-e17a-4547-be8b-9d0167a6f6fa"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-182373014749797220117052",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "f8184c28-050f-4c63-a2e0-d43f797830ce"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-135461191663611891121656",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "4adb9ffc-c644-4dc1-99f6-e9bb587affd4"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-230684801622951261434181",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "a4ac45c4-ed7c-4852-8e0d-4aaf2c36520b"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-177997344388176100815488",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "8b28da34-991c-4d2c-934f-f37206952db9"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-346810486489855548509993",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "2885007e-6695-485b-bc41-f1b4f3be8558"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            }
+          ]
+        },
+        {
+          "level": "2",
+          "manufacturer": "BPNL00000003AZQP",
+          "batchManaged": "N",
+          "productName": "HV MODUL",
+          "productid": "8840837-48",
+          "sapApp": "Y",
+          "bpId": "SAPTIER1",
+          "serialId": "NO-441705229461183422012069",
+          "batchId": "",
+          "quantity": "1",
+          "ratio": "1",
+          "aas": "Y",
+          "mqtt": "N",
+          "countryCode": "DEU",
+          "qualifier": "",
+          "unitOfMeasure": "",
+          "batchQuantity": "",
+          "properties": [
+            {
+              "name": "CATENAX_UID",
+              "value": "e6b2f977-19c8-4679-a184-576f78eeb152"
+            }
+          ],
+          "status": "RELEASED",
+          "systemId": "",
+          "creationDate": "",
+          "expirationDate": "",
+          "SUBCOMPT3": [
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AXS3",
+              "batchManaged": "Y",
+              "productName": "Sealant",
+              "productid": "9A047C7-01",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "",
+              "batchId": "NO-971635779077401355460598",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "KGM",
+              "batchQuantity": "0.11",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "23848705-cf7e-4561-94fb-34662d85bc7e"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-477877236601637773616820",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "e3231a15-5041-4ab8-95d7-ca73c3e040cf"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-117993492494891770862590",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "a850ddaa-5e0d-498c-b6cc-48a1c97d9e0a"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-006363411561510204479978",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "46b0cc06-fbe9-4b31-84bf-7b1798003a97"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-630526215222170063310735",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "03fd36c2-4e66-4c37-b801-602a81bace74"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-305449345584008760412077",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "28e1e366-7475-4d71-912d-19f8667fb14d"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-301874225085888049229813",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "850216e7-a93b-42f4-9a2c-1b820ff9bef0"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-019443297847985117981860",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "6ac0f023-bb2c-4c98-b2d6-542c7475d720"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-932013434192781907771790",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "64a11a86-252f-4e51-a3ff-9020d889abe5"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-689284606441738808055761",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "72a583ff-39fb-4b04-bc97-18edae24effd"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-662484343215288231677042",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "fd29df63-bbd2-46e3-9c27-8daf619de921"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            }
+          ]
+        },
+        {
+          "level": "2",
+          "manufacturer": "BPNL00000003AZQP",
+          "batchManaged": "N",
+          "productName": "HV MODUL",
+          "productid": "8840837-48",
+          "sapApp": "Y",
+          "bpId": "SAPTIER1",
+          "serialId": "NO-103384388107765340356363",
+          "batchId": "",
+          "quantity": "1",
+          "ratio": "1",
+          "aas": "Y",
+          "mqtt": "N",
+          "countryCode": "DEU",
+          "qualifier": "",
+          "unitOfMeasure": "",
+          "batchQuantity": "",
+          "properties": [
+            {
+              "name": "CATENAX_UID",
+              "value": "230995c8-e778-49a7-af67-9223ce492079"
+            }
+          ],
+          "status": "RELEASED",
+          "systemId": "",
+          "creationDate": "",
+          "expirationDate": "",
+          "SUBCOMPT3": [
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AXS3",
+              "batchManaged": "Y",
+              "productName": "Sealant",
+              "productid": "9A047C7-01",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "",
+              "batchId": "NO-718825574210340702430961",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "KGM",
+              "batchQuantity": "0.11",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "f5321882-b369-4007-9c4b-5f8599824c5b"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-374481027597981931001809",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "36d3deab-1076-4e97-bd19-638672d6e32a"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-018343961145024687174940",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "a95c0cc7-b517-4553-aa76-be1a89a4ed44"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-546895087703344919375179",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "5082b94a-e345-44ce-b7c6-bce2105a72fc"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-333702445504272472964124",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "48391b5c-ae7d-4f6c-bf09-6869acfb0b4c"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-013552145812520869556396",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "1e143fac-855a-4d8d-91ac-fa3ec5f59281"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-415726771860453185519809",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "9627ee3e-4b64-4855-96cd-84c9f897e8db"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-520974276635103939898944",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "96d9ab94-94fe-4a1b-a94c-371e70dec78e"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-520671308444439610053398",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "39b8635a-b3c0-463b-9096-fa876c4aeeaa"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-200030362305468735196815",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "f14660d7-052d-499b-90c8-018291117a35"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-868375710966234353411977",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "982ec52f-8682-48f8-a285-2f1839f1b962"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            }
+          ]
+        },
+        {
+          "level": "2",
+          "manufacturer": "BPNL00000003AZQP",
+          "batchManaged": "N",
+          "productName": "HV MODUL",
+          "productid": "8840837-48",
+          "sapApp": "Y",
+          "bpId": "SAPTIER1",
+          "serialId": "NO-367353199567247881117273",
+          "batchId": "",
+          "quantity": "1",
+          "ratio": "1",
+          "aas": "Y",
+          "mqtt": "N",
+          "countryCode": "DEU",
+          "qualifier": "",
+          "unitOfMeasure": "",
+          "batchQuantity": "",
+          "properties": [
+            {
+              "name": "CATENAX_UID",
+              "value": "0c42188e-96da-4616-91f8-263dc59501d2"
+            }
+          ],
+          "status": "RELEASED",
+          "systemId": "",
+          "creationDate": "",
+          "expirationDate": "",
+          "SUBCOMPT3": [
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AXS3",
+              "batchManaged": "Y",
+              "productName": "Sealant",
+              "productid": "9A047C7-01",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "",
+              "batchId": "NO-718825574210340702430961",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "KGM",
+              "batchQuantity": "0.11",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "f5321882-b369-4007-9c4b-5f8599824c5b"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-041285347441637410069347",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "5175ee6b-a182-4285-b00c-f3bca893ab91"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-387797268405062895743723",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "5d19fe1d-1461-4746-b0a0-f4d9904c4ede"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-534063356498543935567810",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "c3cf353a-afbb-4261-b311-b82dacbb722b"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-186870698788805384314607",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "793ec10d-ebca-4898-b743-a730af13377f"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-431513941288799498168242",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "7e57c184-44a6-49ac-a85c-dabc63adfc7b"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-149891281506764972655794",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "bf70e0c-cb54-417e-aa0c-ee3c5dab15ec"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-808300298810121925060304",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "52928986-1134-41bb-b902-e365f95a4f88"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-622458604088808600710912",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "a8a4fc2d-562e-41f9-95c1-34c88d4f0eb1"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-032551204613977642032990",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "5a7e8753-43c4-4b98-95d4-764df61968a5"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-701088264656510475023612",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "f6b62cc8-9308-42d3-8262-9edd614164f5"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            }
+          ]
+        },
+        {
+          "level": "2",
+          "manufacturer": "BPNL00000003AZQP",
+          "batchManaged": "N",
+          "productName": "HV MODUL",
+          "productid": "8840837-48",
+          "sapApp": "Y",
+          "bpId": "SAPTIER1",
+          "serialId": "NO-958280749764931324333419",
+          "batchId": "",
+          "quantity": "1",
+          "ratio": "1",
+          "aas": "Y",
+          "mqtt": "N",
+          "countryCode": "DEU",
+          "qualifier": "",
+          "unitOfMeasure": "",
+          "batchQuantity": "",
+          "properties": [
+            {
+              "name": "CATENAX_UID",
+              "value": "203e21fb-542d-47db-85c3-378aa6235cd0"
+            }
+          ],
+          "status": "RELEASED",
+          "systemId": "",
+          "creationDate": "",
+          "expirationDate": "",
+          "SUBCOMPT3": [
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AXS3",
+              "batchManaged": "Y",
+              "productName": "Sealant",
+              "productid": "9A047C7-01",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "",
+              "batchId": "NO-718825574210340702430961",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "KGM",
+              "batchQuantity": "0.11",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "f5321882-b369-4007-9c4b-5f8599824c5b"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-737241864589636277230252",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "eb4307d6-934a-421d-9a4a-fd746be5fe19"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-345395222852820091798844",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "060cf930-7360-426d-96ff-0319f30bfa7a"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-563155357149005386249409",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "65ade160-41b4-42fe-995a-68f897b24abc"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-597766109514755854982365",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "3957cd59-c062-42f9-817d-fc000d042fca"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-010583704433970715912206",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "bb42fccd-c4c0-4cd6-bff2-39d676eadf8b"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-071536495895207530551401",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "eafa1b58-6dd3-43d5-9fbe-ff055d8121d3"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-009172217501958395578379",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "1326a5cf-90ef-4ee3-986a-b2663ede3cac"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-902258353280074219774351",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "0ff15cd3-6aed-4662-bfb0-a036797af5c9"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-686528359088865024823482",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "38477215-8683-463e-ac79-764a3585f435"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-724988737266816195811259",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "ec4fc5df-6643-4396-9094-66635bad778a"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            }
+          ]
+        },
+        {
+          "level": "2",
+          "manufacturer": "BPNL00000003AZQP",
+          "batchManaged": "N",
+          "productName": "HV MODUL",
+          "productid": "8840837-48",
+          "sapApp": "Y",
+          "bpId": "SAPTIER1",
+          "serialId": "NO-367833207273201859656923",
+          "batchId": "",
+          "quantity": "1",
+          "ratio": "1",
+          "aas": "Y",
+          "mqtt": "N",
+          "countryCode": "DEU",
+          "qualifier": "",
+          "unitOfMeasure": "",
+          "batchQuantity": "",
+          "properties": [
+            {
+              "name": "CATENAX_UID",
+              "value": "fea8f1a6-e2a6-4621-a0d1-b08c66dd52c1"
+            }
+          ],
+          "status": "RELEASED",
+          "systemId": "",
+          "creationDate": "",
+          "expirationDate": "",
+          "SUBCOMPT3": [
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AXS3",
+              "batchManaged": "Y",
+              "productName": "Sealant",
+              "productid": "9A047C7-01",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "",
+              "batchId": "NO-971635779077401355460598",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "KGM",
+              "batchQuantity": "0.11",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "23848705-cf7e-4561-94fb-34662d85bc7e"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-442167356032657421360661",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "c551c211-5ef7-44af-b87f-01b0074635aa"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-271088794229154281204604",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "41e861d3-4608-4dcd-b96e-c1e476d4ee83"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-535757260388199678617989",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "9b965335-042a-4f04-b92f-ef1180c478e7"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-677053521803207612040931",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "883fd610-1687-412b-9f23-5e62481324f1"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-358618407003137562498397",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "3bcd4149-68ca-4489-ae7c-ddd3827bf2de"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-300540224134584270858122",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "44e512c4-7ba8-46a6-bb22-681a88516c39"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-363453513902143782004205",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "9d8236de-ac06-41c4-be45-961aadc3aaf2"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-451462250485859416542103",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "af3e0069-ad03-472a-831d-bae063f4988e"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-058254112850321263355833",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "f223e8e9-530d-47c6-92db-e3d9cfe36184"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            },
+            {
+              "level": "3",
+              "manufacturer": "BPNL00000003AYRE",
+              "batchManaged": "N",
+              "productName": "ZB ZELLE",
+              "productid": "8840838-04",
+              "sapApp": "Y",
+              "bpId": "SAPTIER1",
+              "serialId": "NO-690810298161713775826526",
+              "batchId": "",
+              "quantity": "1",
+              "ratio": "1",
+              "aas": "N",
+              "mqtt": "N",
+              "countryCode": "DEU",
+              "qualifier": "",
+              "unitOfMeasure": "",
+              "batchQuantity": "",
+              "properties": [
+                {
+                  "name": "CATENAX_UID",
+                  "value": "a6df6520-ad73-4616-9c72-ad1604c24761"
+                }
+              ],
+              "status": "RELEASED",
+              "systemId": "",
+              "creationDate": "",
+              "expirationDate": "",
+              "SUBCOMPT4": [
+
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

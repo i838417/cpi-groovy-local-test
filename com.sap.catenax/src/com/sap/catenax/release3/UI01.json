@@ -1,0 +1,32 @@
+{
+  "level": "0",
+  "manufacturer": "BPNL00000003AZQP",
+  "batchManaged": "N",
+  "productName": "Vehicle Fully Electric",
+  "productid": "XT-47",
+  "sapApp": "Y",
+  "bpId": "BPNL00000003AZQP",
+  "serialId": "OMCWIBYOPIBNDIGSE",
+  "batchId": "",
+  "quantity": "1",
+  "uuids": [
+
+  ],
+  "aas": "Y",
+  "aasUUIDs": "d939b89c-3f54-4b92-a4ce-f4de21b617c6",
+  "mqtt": "N",
+  "countryCode": "DEU",
+  "qualifier": "",
+  "unitOfMeasure": "",
+  "batchQuantity": "",
+  "properties": [
+    {
+      "name": "CATENAX_UID",
+      "value": "54f35816-c1ce-44b7-b6ee-aa3235b96250"
+    }
+  ],
+  "status": "RELEASED",
+  "systemId": "",
+  "creationDate": "",
+  "expirationDate": ""
+}

@@ -1,0 +1,64 @@
+{
+    "serialId": "SN-BATTPACK-1676260754155",
+    "productId": "BATTPACK",
+    "systemId": "BPNL00000003AZQP-SYS",
+    "senderLbnId": "10010001150",
+    "senderSystemId": "10010001150-SYS",
+    "messageId": "MSG-1676260761859",
+    "payLoad": {
+        "productId": "BATTPACK",
+        "systemId": "BPNL00000003AZQP-SYS",
+        "properties": [
+            {
+                "name": "CATENAX_UID",
+                "value": "57479ef0-eac2-4255-a849-42c86355c618"
+            },
+            {
+                "name": "CATENA_X_PART",
+                "value": "57479ef0-eac2-4255-a849-42c86355c618"
+            }
+        ],
+        "creationDate": "20230212",
+        "location": "DEU",
+        "status": "RELEASED",
+        "quantities": [
+            {
+                "qualifier": "DISCRETE",
+                "value": 1,
+                "unit": "PC"
+            }
+        ],
+        "plant": null,
+        "serialNumbers": [
+            {
+                "serialId": "SN-BATTPACK-1676260754155",
+                "componentSerialNumbers": [
+                    {
+                        "serialId": "SN-GEARBOX-1676260758418",
+                        "productId": "GEARBOX",
+                        "systemId": "BPNL00000003AZQP-SYS"
+                    }
+                ]
+            }
+        ],
+        "productDetail": {
+            "quantities": [
+                {
+                    "qualifier": "DISCRETE",
+                    "value": 1,
+                    "unit": "PC"
+                }
+            ],
+            "properties": [
+                
+            ],
+            "productName": "BatteryPack",
+            "creationDate": "20230212"
+        },
+        "components": [
+            
+        ]
+    },
+    "eventType": "ProduceSerialNumberEvent",
+    "catenaXId": "57479ef0-eac2-4255-a849-42c86355c618"
+}
